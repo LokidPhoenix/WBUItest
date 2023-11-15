@@ -1,10 +1,10 @@
 {
   "WBUI2": {
     "settings": {
-        "OpenButton": 0,
+        "OpenButton": 4,
         "HideIcon": false,
         "HideIconAfter": 60,
-        "IconURL": "https://i.imgur.com/OZ6xOjY.png",
+        "IconURL": "https://i.imgur.com/mS6FORd.png",
         "DisableIconText": false,
         "IconPosition": 0,
         "IconTextColor": 0,
@@ -19,7 +19,7 @@
           "buttontext": "Welcome",
           "title1": "Thanks for installing WBUI2!",
           "text1": "This mod is in an early stage.\nYou can expect bugs!\n\n\nThis UI is unedited. Pls contact an Admin.\n\nAre you an Admin?\nPls click on the buttons down below to get to the Wiki page for a setup guide. For Support pls join the discord\n\nYou can find a simple explanation in the settings tab.",
-          "imageurl": "https://i.imgur.com/mGt3cAF.png"
+          "imageurl": "https://i.imgur.com/vSMBYf2.png"
         }
       },
       {
@@ -38,19 +38,19 @@
       {
         "link1": {
           "text": "Discord",
-          "url": "https://discord.com/invite/K7NyrTV"
+          "url": "https://discord.gg/JGtx8BZHwv"
         }
       },
       {
         "link2": {
-          "text": "Wiki",
-          "url": "https://github.com/DC-Modding/WBUI2-Wiki/wiki"
+          "text": "Teamspeak",
+          "url": "ts3server://109.230.239.179"
         }
       },
       {
         "link3": {
-          "text": "CurseForge",
-          "url": "https://www.curseforge.com/ark-survival-ascended/mods/wbui2"
+          "text": "Homepage",
+          "url": "https://www.gaming-valhalla.com"
         }
       },
       {
