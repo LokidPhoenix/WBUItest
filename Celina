@@ -40,9 +40,9 @@
           "layout": 2,
           "buttontext": "Shop",
           "title1": "<TextStyle.Orange>Shop DE</>",
-          "title2": "<TextStyle.Green>Shop EN</>",
-          "text1": "<TextStyle.Orange>This text goes into the top left box</>",
-          "text2": "<TextStyle.Violet>This text goes into the top right box</>",
+          "title2": "<TextStyle.Orange>Shop EN</>",
+          "text1": "This text goes into the top left box",
+          "text2": "This text goes into the top right",
           "imageurl": "https://i.imgur.com/vSMBYf2.png"
         }
       }
