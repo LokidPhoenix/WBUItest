@@ -51,19 +51,19 @@
         }
       },
       {
-        "link2": {
+        "link3": {
           "text": "Teamspeak",
           "url": "ts3server://109.230.239.179"
         }
       },
       {
-        "link3": {
+        "link4": {
           "text": "Donation",
           "url": "https://discord.com/channels/732330360783896587/748667839400902727"
         }
       },
       {
-        "link4": {
+        "link5": {
           "text": "Vote",
           "url": "https://deutsche-arkserver.de/server/asa-island-no-wipe-good-old-ase-valhalla.40769/"
         }
