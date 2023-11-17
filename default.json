@@ -34,6 +34,17 @@
           "text2": "<TextStyle.Orange>PVE Server</>\n <TextStyle.LightBlue>Taming x8</>\n <TextStyle.LightBlue>Experience x2</>\n <TextStyle.LightBlue>Harvesting x2</>\n <TextStyle.LightBlue>All around babys x15</>\n Wild dinos level = Level 150\n Max Playerlevel: 105 (without bosses)\n Playersats per level increased\n <TextStyle.LightBlue>All engrams can be learned</>\n Tasche / Corpse 2h after dead findable\n Beacon loot increased / Fishing loot increased\n\n <TextStyle.Orange>Perfect for beginners:</>\n <TextStyle.LightBlue>Carrying of wild dinos activated</>\n <TextStyle.LightBlue>Utilities Plus</> (reusable spear, bola, torch etc.)\n Ichthyornis (=Thieve bird) locked\n Quicker egg laying rates\n Reduced food and water consumption for players\n Max. 8 Player per tribe\n Every tribe member can imprint\n More structures placeable on platforms\n Stacksizes increased to 500 \n Every player starts with 500 weight",
           "imageurl": "https://i.imgur.com/vSMBYf2.png"
         }
+      },
+   {
+        "tab4": {
+          "layout": 2,
+          "buttontext": "Shop",
+          "title1": "<TextStyle.Orange>Shop DE</>",
+          "title2": "<TextStyle.Green>Shop EN</>",
+          "text1": "<TextStyle.Orange>This text goes into the top left box</>",
+          "text2": "<TextStyle.Violet>This text goes into the top right box</>",
+          "imageurl": "https://i.imgur.com/vSMBYf2.png"
+        }
       }
     ],
     "links": [
