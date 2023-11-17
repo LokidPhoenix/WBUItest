@@ -39,9 +39,15 @@
     "links": [
       {
         "link1": {
-          "text": "Regeln",
-          "url": "https://www.gaming-valhalla.com/regeln-asa/",
-          "url": "https://www.gaming-valhalla.com/en/regeln-asa/"
+          "text": "Regeln DE"
+          "url": "https://www.gaming-valhalla.com/regeln-asa/"
+          "url":"https://www.gaming-valhalla.com/en/regeln-asa/"
+        }
+      },
+      {
+        "link2": {
+          "text": "Rules EN",
+          "url":"https://www.gaming-valhalla.com/en/regeln-asa/"
         }
       },
       {
